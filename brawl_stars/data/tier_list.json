@@ -1,0 +1,1017 @@
+{
+  "scrapedAt": "2026-04-02T11:58:50.365Z",
+  "source": "https://www.noff.gg/brawl-stars/tier-list",
+  "count": 101,
+  "brawlers": [
+    {
+      "rank": 1,
+      "name": "Bull",
+      "pick24h": 4.47,
+      "win24h": 39.55,
+      "pick30d": 4.1,
+      "win30d": 43.13,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/bull.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/bull"
+    },
+    {
+      "rank": 2,
+      "name": "Bibi",
+      "pick24h": 4.32,
+      "win24h": 29.46,
+      "pick30d": 6.6,
+      "win30d": 31.1,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/bibi.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/bibi"
+    },
+    {
+      "rank": 3,
+      "name": "Mortis",
+      "pick24h": 3.61,
+      "win24h": 35.36,
+      "pick30d": 4.11,
+      "win30d": 35.41,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/mortis.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/mortis"
+    },
+    {
+      "rank": 4,
+      "name": "Clancy",
+      "pick24h": 3.51,
+      "win24h": 60.52,
+      "pick30d": 0.41,
+      "win30d": 56.27,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/clancy.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/clancy"
+    },
+    {
+      "rank": 5,
+      "name": "Crow",
+      "pick24h": 3.31,
+      "win24h": 47.3,
+      "pick30d": 3.8,
+      "win30d": 46.58,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/crow.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/crow"
+    },
+    {
+      "rank": 6,
+      "name": "Colt",
+      "pick24h": 3.24,
+      "win24h": 35.03,
+      "pick30d": 3.06,
+      "win30d": 41.91,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/colt.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/colt"
+    },
+    {
+      "rank": 7,
+      "name": "Najia",
+      "pick24h": 2.96,
+      "win24h": 63.17,
+      "pick30d": 1.6,
+      "win30d": 67.49,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/najia.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/najia"
+    },
+    {
+      "rank": 8,
+      "name": "Leon",
+      "pick24h": 2.9,
+      "win24h": 52.38,
+      "pick30d": 2.51,
+      "win30d": 51.16,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/leon.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/leon"
+    },
+    {
+      "rank": 9,
+      "name": "Rico",
+      "pick24h": 2.74,
+      "win24h": 34.11,
+      "pick30d": 4.04,
+      "win30d": 38.75,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/rico.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/rico"
+    },
+    {
+      "rank": 10,
+      "name": "Spike",
+      "pick24h": 2.36,
+      "win24h": 46.64,
+      "pick30d": 2.52,
+      "win30d": 49.39,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/spike.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/spike"
+    },
+    {
+      "rank": 11,
+      "name": "Emz",
+      "pick24h": 2.12,
+      "win24h": 44.59,
+      "pick30d": 2.24,
+      "win30d": 48.59,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/emz.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/emz"
+    },
+    {
+      "rank": 12,
+      "name": "Pierce",
+      "pick24h": 1.91,
+      "win24h": 59.48,
+      "pick30d": 1.33,
+      "win30d": 58.12,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/pierce.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/pierce"
+    },
+    {
+      "rank": 13,
+      "name": "Edgar",
+      "pick24h": 1.86,
+      "win24h": 44.34,
+      "pick30d": 1.1,
+      "win30d": 32.79,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/edgar.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/edgar"
+    },
+    {
+      "rank": 14,
+      "name": "Cordelius",
+      "pick24h": 1.78,
+      "win24h": 55.8,
+      "pick30d": 1.17,
+      "win30d": 50.06,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/cordelius.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/cordelius"
+    },
+    {
+      "rank": 15,
+      "name": "Shelly",
+      "pick24h": 1.72,
+      "win24h": 41.41,
+      "pick30d": 1.25,
+      "win30d": 49.76,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/shelly.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/shelly"
+    },
+    {
+      "rank": 16,
+      "name": "Piper",
+      "pick24h": 1.68,
+      "win24h": 45.8,
+      "pick30d": 1.64,
+      "win30d": 40.72,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/piper.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/piper"
+    },
+    {
+      "rank": 17,
+      "name": "Bo",
+      "pick24h": 1.66,
+      "win24h": 57.31,
+      "pick30d": 1.56,
+      "win30d": 54.53,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/bo.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/bo"
+    },
+    {
+      "rank": 18,
+      "name": "Dynamike",
+      "pick24h": 1.53,
+      "win24h": 42.73,
+      "pick30d": 1.07,
+      "win30d": 39.16,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/dynamike.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/dynamike"
+    },
+    {
+      "rank": 19,
+      "name": "Buzz",
+      "pick24h": 1.51,
+      "win24h": 49.76,
+      "pick30d": 0.97,
+      "win30d": 43.29,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/buzz.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/buzz"
+    },
+    {
+      "rank": 20,
+      "name": "Sirius",
+      "pick24h": 1.47,
+      "win24h": 35.53,
+      "pick30d": 3.87,
+      "win30d": 45,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/sirius.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/sirius"
+    },
+    {
+      "rank": 21,
+      "name": "Chester",
+      "pick24h": 1.31,
+      "win24h": 50.78,
+      "pick30d": 1.32,
+      "win30d": 57.26,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/chester.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/chester"
+    },
+    {
+      "rank": 22,
+      "name": "Surge",
+      "pick24h": 1.29,
+      "win24h": 41.6,
+      "pick30d": 0.98,
+      "win30d": 40.71,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/surge.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/surge"
+    },
+    {
+      "rank": 23,
+      "name": "Mandy",
+      "pick24h": 1.23,
+      "win24h": 46.11,
+      "pick30d": 2.02,
+      "win30d": 45.71,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/mandy.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/mandy"
+    },
+    {
+      "rank": 24,
+      "name": "Lily",
+      "pick24h": 1.21,
+      "win24h": 49.09,
+      "pick30d": 0.9,
+      "win30d": 45.24,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/lily.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/lily"
+    },
+    {
+      "rank": 25,
+      "name": "Ziggy",
+      "pick24h": 1.08,
+      "win24h": 68.28,
+      "pick30d": 0.51,
+      "win30d": 67.23,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/ziggy.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/ziggy"
+    },
+    {
+      "rank": 26,
+      "name": "El-primo",
+      "pick24h": 1.03,
+      "win24h": 55.56,
+      "pick30d": 0.75,
+      "win30d": 51.44,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/el_primo.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/el-primo"
+    },
+    {
+      "rank": 27,
+      "name": "Byron",
+      "pick24h": 1.03,
+      "win24h": 45.79,
+      "pick30d": 1.4,
+      "win30d": 54.7,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/byron.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/byron"
+    },
+    {
+      "rank": 28,
+      "name": "Bea",
+      "pick24h": 1,
+      "win24h": 46.42,
+      "pick30d": 1.63,
+      "win30d": 56.78,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/bea.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/bea"
+    },
+    {
+      "rank": 29,
+      "name": "Nani",
+      "pick24h": 0.98,
+      "win24h": 54.76,
+      "pick30d": 0.78,
+      "win30d": 57.12,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/nani.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/nani"
+    },
+    {
+      "rank": 30,
+      "name": "Frank",
+      "pick24h": 0.98,
+      "win24h": 48.77,
+      "pick30d": 0.98,
+      "win30d": 45.87,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/frank.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/frank"
+    },
+    {
+      "rank": 31,
+      "name": "Fang",
+      "pick24h": 0.96,
+      "win24h": 44.41,
+      "pick30d": 1.5,
+      "win30d": 38.38,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/fang.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/fang"
+    },
+    {
+      "rank": 32,
+      "name": "Brock",
+      "pick24h": 0.95,
+      "win24h": 37.31,
+      "pick30d": 1.38,
+      "win30d": 48.36,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/brock.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/brock"
+    },
+    {
+      "rank": 33,
+      "name": "Maisie",
+      "pick24h": 0.94,
+      "win24h": 53.36,
+      "pick30d": 0.74,
+      "win30d": 57.06,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/maisie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/maisie"
+    },
+    {
+      "rank": 34,
+      "name": "Otis",
+      "pick24h": 0.9,
+      "win24h": 57.74,
+      "pick30d": 0.94,
+      "win30d": 62.79,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/otis.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/otis"
+    },
+    {
+      "rank": 35,
+      "name": "Stu",
+      "pick24h": 0.9,
+      "win24h": 41.63,
+      "pick30d": 0.96,
+      "win30d": 50.12,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/stu.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/stu"
+    },
+    {
+      "rank": 36,
+      "name": "Barley",
+      "pick24h": 0.88,
+      "win24h": 51.56,
+      "pick30d": 0.39,
+      "win30d": 48.71,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/barley.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/barley"
+    },
+    {
+      "rank": 37,
+      "name": "Mico",
+      "pick24h": 0.84,
+      "win24h": 51.19,
+      "pick30d": 0.64,
+      "win30d": 49.25,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/mico.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/mico"
+    },
+    {
+      "rank": 38,
+      "name": "Carl",
+      "pick24h": 0.83,
+      "win24h": 40.34,
+      "pick30d": 0.94,
+      "win30d": 53.44,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/carl.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/carl"
+    },
+    {
+      "rank": 39,
+      "name": "Tick",
+      "pick24h": 0.83,
+      "win24h": 28.69,
+      "pick30d": 1.09,
+      "win30d": 28.45,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/tick.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/tick"
+    },
+    {
+      "rank": 40,
+      "name": "Nita",
+      "pick24h": 0.81,
+      "win24h": 46.75,
+      "pick30d": 0.77,
+      "win30d": 59.3,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/nita.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/nita"
+    },
+    {
+      "rank": 41,
+      "name": "Buster",
+      "pick24h": 0.79,
+      "win24h": 69.47,
+      "pick30d": 0.57,
+      "win30d": 65.99,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/buster.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/buster"
+    },
+    {
+      "rank": 42,
+      "name": "Larry-and-lawrie",
+      "pick24h": 0.79,
+      "win24h": 65.69,
+      "pick30d": 0.31,
+      "win30d": 58.22,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/larry_and_lawrie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/larry-and-lawrie"
+    },
+    {
+      "rank": 43,
+      "name": "Shade",
+      "pick24h": 0.78,
+      "win24h": 71.61,
+      "pick30d": 0.56,
+      "win30d": 63.53,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/shade.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/shade"
+    },
+    {
+      "rank": 44,
+      "name": "Gus",
+      "pick24h": 0.76,
+      "win24h": 58.08,
+      "pick30d": 0.84,
+      "win30d": 57.93,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/gus.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/gus"
+    },
+    {
+      "rank": 45,
+      "name": "Poco",
+      "pick24h": 0.76,
+      "win24h": 44.23,
+      "pick30d": 0.73,
+      "win30d": 39.69,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/poco.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/poco"
+    },
+    {
+      "rank": 46,
+      "name": "Griff",
+      "pick24h": 0.75,
+      "win24h": 49.29,
+      "pick30d": 0.73,
+      "win30d": 48.96,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/griff.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/griff"
+    },
+    {
+      "rank": 47,
+      "name": "Kenji",
+      "pick24h": 0.74,
+      "win24h": 52.7,
+      "pick30d": 0.74,
+      "win30d": 56.66,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/kenji.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/kenji"
+    },
+    {
+      "rank": 48,
+      "name": "Kit",
+      "pick24h": 0.73,
+      "win24h": 40.76,
+      "pick30d": 0.95,
+      "win30d": 50.96,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/kit.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/kit"
+    },
+    {
+      "rank": 49,
+      "name": "Doug",
+      "pick24h": 0.72,
+      "win24h": 51.72,
+      "pick30d": 0.75,
+      "win30d": 56.48,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/doug.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/doug"
+    },
+    {
+      "rank": 50,
+      "name": "8-bit",
+      "pick24h": 0.7,
+      "win24h": 64.56,
+      "pick30d": 0.5,
+      "win30d": 64.23,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/8_bit.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/8-bit"
+    },
+    {
+      "rank": 51,
+      "name": "Belle",
+      "pick24h": 0.67,
+      "win24h": 58.46,
+      "pick30d": 0.78,
+      "win30d": 63.9,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/belle.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/belle"
+    },
+    {
+      "rank": 52,
+      "name": "Melodie",
+      "pick24h": 0.67,
+      "win24h": 50,
+      "pick30d": 0.73,
+      "win30d": 52.8,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/melodie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/melodie"
+    },
+    {
+      "rank": 53,
+      "name": "Jessie",
+      "pick24h": 0.65,
+      "win24h": 57.59,
+      "pick30d": 0.46,
+      "win30d": 50.04,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/jessie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/jessie"
+    },
+    {
+      "rank": 54,
+      "name": "Grom",
+      "pick24h": 0.65,
+      "win24h": 42.33,
+      "pick30d": 0.89,
+      "win30d": 45.07,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/grom.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/grom"
+    },
+    {
+      "rank": 55,
+      "name": "Penny",
+      "pick24h": 0.59,
+      "win24h": 47.9,
+      "pick30d": 0.55,
+      "win30d": 54.22,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/penny.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/penny"
+    },
+    {
+      "rank": 56,
+      "name": "Max",
+      "pick24h": 0.57,
+      "win24h": 52.76,
+      "pick30d": 0.65,
+      "win30d": 62.99,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/max.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/max"
+    },
+    {
+      "rank": 57,
+      "name": "Angelo",
+      "pick24h": 0.57,
+      "win24h": 52.2,
+      "pick30d": 0.82,
+      "win30d": 60.73,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/angelo.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/angelo"
+    },
+    {
+      "rank": 58,
+      "name": "Meeple",
+      "pick24h": 0.56,
+      "win24h": 50.9,
+      "pick30d": 0.56,
+      "win30d": 63.85,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/meeple.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/meeple"
+    },
+    {
+      "rank": 59,
+      "name": "Glowbert",
+      "pick24h": 0.53,
+      "win24h": 47.5,
+      "pick30d": 0.6,
+      "win30d": 59.85,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/glowbert.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/glowbert"
+    },
+    {
+      "rank": 60,
+      "name": "Darryl",
+      "pick24h": 0.52,
+      "win24h": 45.89,
+      "pick30d": 0.74,
+      "win30d": 53.81,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/darryl.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/darryl"
+    },
+    {
+      "rank": 61,
+      "name": "Gray",
+      "pick24h": 0.51,
+      "win24h": 50.34,
+      "pick30d": 0.68,
+      "win30d": 61.41,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/gray.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/gray"
+    },
+    {
+      "rank": 62,
+      "name": "Gene",
+      "pick24h": 0.51,
+      "win24h": 44.37,
+      "pick30d": 0.59,
+      "win30d": 57.38,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/gene.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/gene"
+    },
+    {
+      "rank": 63,
+      "name": "Jacky",
+      "pick24h": 0.5,
+      "win24h": 47.26,
+      "pick30d": 0.46,
+      "win30d": 49.35,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/jacky.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/jacky"
+    },
+    {
+      "rank": 64,
+      "name": "Rosa",
+      "pick24h": 0.49,
+      "win24h": 58.59,
+      "pick30d": 0.54,
+      "win30d": 63.5,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/rosa.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/rosa"
+    },
+    {
+      "rank": 65,
+      "name": "Finx",
+      "pick24h": 0.48,
+      "win24h": 65.28,
+      "pick30d": 0.31,
+      "win30d": 64.55,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/finx.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/finx"
+    },
+    {
+      "rank": 66,
+      "name": "Trunk",
+      "pick24h": 0.48,
+      "win24h": 57.24,
+      "pick30d": 0.34,
+      "win30d": 69.05,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/trunk.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/trunk"
+    },
+    {
+      "rank": 67,
+      "name": "Willow",
+      "pick24h": 0.47,
+      "win24h": 61.81,
+      "pick30d": 0.38,
+      "win30d": 63.73,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/willow.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/willow"
+    },
+    {
+      "rank": 68,
+      "name": "Berry",
+      "pick24h": 0.47,
+      "win24h": 45.86,
+      "pick30d": 0.35,
+      "win30d": 57.55,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/berry.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/berry"
+    },
+    {
+      "rank": 69,
+      "name": "Squeak",
+      "pick24h": 0.47,
+      "win24h": 45.52,
+      "pick30d": 0.66,
+      "win30d": 51.09,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/squeak.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/squeak"
+    },
+    {
+      "rank": 70,
+      "name": "Lou",
+      "pick24h": 0.45,
+      "win24h": 54.48,
+      "pick30d": 0.44,
+      "win30d": 63.86,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/lou.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/lou"
+    },
+    {
+      "rank": 71,
+      "name": "Alli",
+      "pick24h": 0.45,
+      "win24h": 38.64,
+      "pick30d": 0.47,
+      "win30d": 60,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/alli.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/alli"
+    },
+    {
+      "rank": 72,
+      "name": "Gale",
+      "pick24h": 0.45,
+      "win24h": 37.4,
+      "pick30d": 0.58,
+      "win30d": 54.45,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/gale.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/gale"
+    },
+    {
+      "rank": 73,
+      "name": "Charlie",
+      "pick24h": 0.44,
+      "win24h": 64.89,
+      "pick30d": 0.43,
+      "win30d": 68.84,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/charlie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/charlie"
+    },
+    {
+      "rank": 74,
+      "name": "Janet",
+      "pick24h": 0.43,
+      "win24h": 46.02,
+      "pick30d": 0.56,
+      "win30d": 59.1,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/janet.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/janet"
+    },
+    {
+      "rank": 75,
+      "name": "Draco",
+      "pick24h": 0.41,
+      "win24h": 78.4,
+      "pick30d": 0.22,
+      "win30d": 65.4,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/draco.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/draco"
+    },
+    {
+      "rank": 76,
+      "name": "Meg",
+      "pick24h": 0.41,
+      "win24h": 62.39,
+      "pick30d": 0.38,
+      "win30d": 64.21,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/meg.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/meg"
+    },
+    {
+      "rank": 77,
+      "name": "Bonnie",
+      "pick24h": 0.41,
+      "win24h": 56.3,
+      "pick30d": 0.3,
+      "win30d": 62.69,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/bonnie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/bonnie"
+    },
+    {
+      "rank": 78,
+      "name": "Ruffs",
+      "pick24h": 0.41,
+      "win24h": 47.58,
+      "pick30d": 0.48,
+      "win30d": 64.69,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/ruffs.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/ruffs"
+    },
+    {
+      "rank": 79,
+      "name": "Colette",
+      "pick24h": 0.41,
+      "win24h": 45.38,
+      "pick30d": 0.42,
+      "win30d": 52.14,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/colette.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/colette"
+    },
+    {
+      "rank": 80,
+      "name": "Jae-yong",
+      "pick24h": 0.41,
+      "win24h": 35.2,
+      "pick30d": 0.26,
+      "win30d": 57.67,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/jae_yong.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/jae-yong"
+    },
+    {
+      "rank": 81,
+      "name": "Ash",
+      "pick24h": 0.39,
+      "win24h": 62.16,
+      "pick30d": 0.3,
+      "win30d": 65.21,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/ash.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/ash"
+    },
+    {
+      "rank": 82,
+      "name": "Kaze",
+      "pick24h": 0.39,
+      "win24h": 52.14,
+      "pick30d": 0.43,
+      "win30d": 60.74,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/kaze.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/kaze"
+    },
+    {
+      "rank": 83,
+      "name": "Tara",
+      "pick24h": 0.39,
+      "win24h": 40.38,
+      "pick30d": 0.7,
+      "win30d": 59.99,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/tara.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/tara"
+    },
+    {
+      "rank": 84,
+      "name": "Hank",
+      "pick24h": 0.38,
+      "win24h": 72.81,
+      "pick30d": 0.27,
+      "win30d": 62.44,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/hank.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/hank"
+    },
+    {
+      "rank": 85,
+      "name": "Moe",
+      "pick24h": 0.38,
+      "win24h": 45.13,
+      "pick30d": 0.52,
+      "win30d": 66,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/moe.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/moe"
+    },
+    {
+      "rank": 86,
+      "name": "Sandy",
+      "pick24h": 0.37,
+      "win24h": 49.02,
+      "pick30d": 0.56,
+      "win30d": 65.09,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/sandy.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/sandy"
+    },
+    {
+      "rank": 87,
+      "name": "Juju",
+      "pick24h": 0.36,
+      "win24h": 76.85,
+      "pick30d": 0.3,
+      "win30d": 70.45,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/juju.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/juju"
+    },
+    {
+      "rank": 88,
+      "name": "Amber",
+      "pick24h": 0.36,
+      "win24h": 63.21,
+      "pick30d": 0.54,
+      "win30d": 66.52,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/amber.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/amber"
+    },
+    {
+      "rank": 89,
+      "name": "Pam",
+      "pick24h": 0.36,
+      "win24h": 56.86,
+      "pick30d": 0.24,
+      "win30d": 62,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/pam.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/pam"
+    },
+    {
+      "rank": 90,
+      "name": "Mina",
+      "pick24h": 0.35,
+      "win24h": 49.04,
+      "pick30d": 0.64,
+      "win30d": 64.39,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/mina.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/mina"
+    },
+    {
+      "rank": 91,
+      "name": "Sprout",
+      "pick24h": 0.34,
+      "win24h": 58.25,
+      "pick30d": 0.26,
+      "win30d": 56.05,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/sprout.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/sprout"
+    },
+    {
+      "rank": 92,
+      "name": "Chuck",
+      "pick24h": 0.33,
+      "win24h": 61,
+      "pick30d": 0.46,
+      "win30d": 50.36,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/chuck.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/chuck"
+    },
+    {
+      "rank": 93,
+      "name": "Pearl",
+      "pick24h": 0.32,
+      "win24h": 55.68,
+      "pick30d": 0.39,
+      "win30d": 61.96,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/pearl.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/pearl"
+    },
+    {
+      "rank": 94,
+      "name": "Lumi",
+      "pick24h": 0.32,
+      "win24h": 38.14,
+      "pick30d": 0.37,
+      "win30d": 70.11,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/lumi.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/lumi"
+    },
+    {
+      "rank": 95,
+      "name": "R-t",
+      "pick24h": 0.3,
+      "win24h": 67.03,
+      "pick30d": 0.49,
+      "win30d": 65.36,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/r_t.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/r-t"
+    },
+    {
+      "rank": 96,
+      "name": "Gigi",
+      "pick24h": 0.29,
+      "win24h": 63.86,
+      "pick30d": 0.18,
+      "win30d": 65.47,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/gigi.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/gigi"
+    },
+    {
+      "rank": 97,
+      "name": "Mr-p",
+      "pick24h": 0.28,
+      "win24h": 46.99,
+      "pick30d": 0.37,
+      "win30d": 55.08,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/mr_p.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/mr-p"
+    },
+    {
+      "rank": 98,
+      "name": "Eve",
+      "pick24h": 0.25,
+      "win24h": 46.05,
+      "pick30d": 0.33,
+      "win30d": 61.92,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/eve.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/eve"
+    },
+    {
+      "rank": 99,
+      "name": "Sam",
+      "pick24h": 0.23,
+      "win24h": 49.25,
+      "pick30d": 0.24,
+      "win30d": 60.33,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/sam.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/sam"
+    },
+    {
+      "rank": 100,
+      "name": "Ollie",
+      "pick24h": 0.23,
+      "win24h": 35.82,
+      "pick30d": 0.25,
+      "win30d": 62.82,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/ollie.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/ollie"
+    },
+    {
+      "rank": 101,
+      "name": "Lola",
+      "pick24h": 0.17,
+      "win24h": 77.55,
+      "pick30d": 0.26,
+      "win30d": 70.45,
+      "imgSrc": "https://www.noff.gg/brawl-stars/res/img/brawler_portraits/lola.webp",
+      "href": "https://www.noff.gg/brawl-stars/brawler/lola"
+    }
+  ]
+}
