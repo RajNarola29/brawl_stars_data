@@ -1,0 +1,1017 @@
+{
+  "scrapedAt": "2026-04-07T04:56:39.739Z",
+  "source": "https://brawlytix.com/meta-tracker",
+  "count": 101,
+  "brawlers": [
+    {
+      "rank": 1,
+      "brawlerId": "16000083",
+      "name": "Clancy",
+      "winRate": 60.7,
+      "useRate": 2.29,
+      "metaScore": 9.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000083.webp",
+      "href": "https://brawlytix.com/brawlers/clancy"
+    },
+    {
+      "rank": 2,
+      "brawlerId": "16000103",
+      "name": "Najia",
+      "winRate": 59.8,
+      "useRate": 1.47,
+      "metaScore": 9.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000103.webp",
+      "href": "https://brawlytix.com/brawlers/najia"
+    },
+    {
+      "rank": 3,
+      "brawlerId": "16000002",
+      "name": "Bull",
+      "winRate": 53.3,
+      "useRate": 3.86,
+      "metaScore": 8.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000002.webp",
+      "href": "https://brawlytix.com/brawlers/bull"
+    },
+    {
+      "rank": 4,
+      "brawlerId": "16000026",
+      "name": "Bibi",
+      "winRate": 52.9,
+      "useRate": 5.58,
+      "metaScore": 8.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000026.webp",
+      "href": "https://brawlytix.com/brawlers/bibi"
+    },
+    {
+      "rank": 5,
+      "brawlerId": "16000023",
+      "name": "Leon",
+      "winRate": 52.9,
+      "useRate": 2.76,
+      "metaScore": 8.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000023.webp",
+      "href": "https://brawlytix.com/brawlers/leon"
+    },
+    {
+      "rank": 6,
+      "brawlerId": "16000014",
+      "name": "Bo",
+      "winRate": 53.1,
+      "useRate": 1.82,
+      "metaScore": 7.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000014.webp",
+      "href": "https://brawlytix.com/brawlers/bo"
+    },
+    {
+      "rank": 7,
+      "brawlerId": "16000012",
+      "name": "Crow",
+      "winRate": 51.8,
+      "useRate": 4.2,
+      "metaScore": 7.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000012.webp",
+      "href": "https://brawlytix.com/brawlers/crow"
+    },
+    {
+      "rank": 8,
+      "brawlerId": "16000102",
+      "name": "Sirius",
+      "winRate": 54,
+      "useRate": 1.51,
+      "metaScore": 7.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000102.webp",
+      "href": "https://brawlytix.com/brawlers/sirius"
+    },
+    {
+      "rank": 9,
+      "brawlerId": "16000063",
+      "name": "Chester",
+      "winRate": 52.8,
+      "useRate": 1.72,
+      "metaScore": 7.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000063.webp",
+      "href": "https://brawlytix.com/brawlers/chester"
+    },
+    {
+      "rank": 10,
+      "brawlerId": "16000011",
+      "name": "Mortis",
+      "winRate": 50,
+      "useRate": 5.33,
+      "metaScore": 7.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000011.webp",
+      "href": "https://brawlytix.com/brawlers/mortis"
+    },
+    {
+      "rank": 11,
+      "brawlerId": "16000099",
+      "name": "Pierce",
+      "winRate": 51,
+      "useRate": 1.85,
+      "metaScore": 7.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000099.webp",
+      "href": "https://brawlytix.com/brawlers/pierce"
+    },
+    {
+      "rank": 12,
+      "brawlerId": "16000030",
+      "name": "Emz",
+      "winRate": 48.8,
+      "useRate": 2.52,
+      "metaScore": 7.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000030.webp",
+      "href": "https://brawlytix.com/brawlers/emz"
+    },
+    {
+      "rank": 13,
+      "brawlerId": "16000004",
+      "name": "Rico",
+      "winRate": 48.1,
+      "useRate": 5.07,
+      "metaScore": 7.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000004.webp",
+      "href": "https://brawlytix.com/brawlers/rico"
+    },
+    {
+      "rank": 14,
+      "brawlerId": "16000001",
+      "name": "Colt",
+      "winRate": 47.8,
+      "useRate": 3.63,
+      "metaScore": 7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000001.webp",
+      "href": "https://brawlytix.com/brawlers/colt"
+    },
+    {
+      "rank": 15,
+      "brawlerId": "16000008",
+      "name": "Nita",
+      "winRate": 53,
+      "useRate": 1.06,
+      "metaScore": 6.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000008.webp",
+      "href": "https://brawlytix.com/brawlers/nita"
+    },
+    {
+      "rank": 16,
+      "brawlerId": "16000020",
+      "name": "Frank",
+      "winRate": 48.6,
+      "useRate": 1.51,
+      "metaScore": 6.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000020.webp",
+      "href": "https://brawlytix.com/brawlers/frank"
+    },
+    {
+      "rank": 17,
+      "brawlerId": "16000003",
+      "name": "Brock",
+      "winRate": 47.9,
+      "useRate": 1.79,
+      "metaScore": 6.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000003.webp",
+      "href": "https://brawlytix.com/brawlers/brock"
+    },
+    {
+      "rank": 18,
+      "brawlerId": "16000005",
+      "name": "Spike",
+      "winRate": 46.7,
+      "useRate": 2.95,
+      "metaScore": 6.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000005.webp",
+      "href": "https://brawlytix.com/brawlers/spike"
+    },
+    {
+      "rank": 19,
+      "brawlerId": "16000042",
+      "name": "Byron",
+      "winRate": 48.2,
+      "useRate": 1.5,
+      "metaScore": 6.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000042.webp",
+      "href": "https://brawlytix.com/brawlers/byron"
+    },
+    {
+      "rank": 20,
+      "brawlerId": "16000070",
+      "name": "Cordelius",
+      "winRate": 47.7,
+      "useRate": 1.68,
+      "metaScore": 6.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000070.webp",
+      "href": "https://brawlytix.com/brawlers/cordelius"
+    },
+    {
+      "rank": 21,
+      "brawlerId": "16000054",
+      "name": "Fang",
+      "winRate": 47.7,
+      "useRate": 1.56,
+      "metaScore": 6.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000054.webp",
+      "href": "https://brawlytix.com/brawlers/fang"
+    },
+    {
+      "rank": 22,
+      "brawlerId": "16000015",
+      "name": "Piper",
+      "winRate": 46.5,
+      "useRate": 1.98,
+      "metaScore": 6.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000015.webp",
+      "href": "https://brawlytix.com/brawlers/piper"
+    },
+    {
+      "rank": 23,
+      "brawlerId": "16000071",
+      "name": "Doug",
+      "winRate": 50.7,
+      "useRate": 1,
+      "metaScore": 6.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000071.webp",
+      "href": "https://brawlytix.com/brawlers/doug"
+    },
+    {
+      "rank": 24,
+      "brawlerId": "16000050",
+      "name": "Griff",
+      "winRate": 49.3,
+      "useRate": 1.1,
+      "metaScore": 6.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000050.webp",
+      "href": "https://brawlytix.com/brawlers/griff"
+    },
+    {
+      "rank": 25,
+      "brawlerId": "16000065",
+      "name": "Mandy",
+      "winRate": 48.4,
+      "useRate": 1.2,
+      "metaScore": 6.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000065.webp",
+      "href": "https://brawlytix.com/brawlers/mandy"
+    },
+    {
+      "rank": 26,
+      "brawlerId": "16000038",
+      "name": "Surge",
+      "winRate": 47.2,
+      "useRate": 1.29,
+      "metaScore": 6.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000038.webp",
+      "href": "https://brawlytix.com/brawlers/surge"
+    },
+    {
+      "rank": 27,
+      "brawlerId": "16000009",
+      "name": "Dynamike",
+      "winRate": 44.4,
+      "useRate": 2.38,
+      "metaScore": 6.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000009.webp",
+      "href": "https://brawlytix.com/brawlers/dynamike"
+    },
+    {
+      "rank": 28,
+      "brawlerId": "16000045",
+      "name": "Stu",
+      "winRate": 50,
+      "useRate": 0.89,
+      "metaScore": 6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000045.webp",
+      "href": "https://brawlytix.com/brawlers/stu"
+    },
+    {
+      "rank": 29,
+      "brawlerId": "16000075",
+      "name": "Mico",
+      "winRate": 54.4,
+      "useRate": 0.67,
+      "metaScore": 5.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000075.webp",
+      "href": "https://brawlytix.com/brawlers/mico"
+    },
+    {
+      "rank": 30,
+      "brawlerId": "16000029",
+      "name": "Bea",
+      "winRate": 50.1,
+      "useRate": 0.85,
+      "metaScore": 5.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000029.webp",
+      "href": "https://brawlytix.com/brawlers/bea"
+    },
+    {
+      "rank": 31,
+      "brawlerId": "16000085",
+      "name": "Kenji",
+      "winRate": 49.5,
+      "useRate": 0.89,
+      "metaScore": 5.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000085.webp",
+      "href": "https://brawlytix.com/brawlers/kenji"
+    },
+    {
+      "rank": 32,
+      "brawlerId": "16000059",
+      "name": "Otis",
+      "winRate": 50.3,
+      "useRate": 0.83,
+      "metaScore": 5.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000059.webp",
+      "href": "https://brawlytix.com/brawlers/otis"
+    },
+    {
+      "rank": 33,
+      "brawlerId": "16000022",
+      "name": "Tick",
+      "winRate": 46.5,
+      "useRate": 1.12,
+      "metaScore": 5.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000022.webp",
+      "href": "https://brawlytix.com/brawlers/tick"
+    },
+    {
+      "rank": 34,
+      "brawlerId": "16000043",
+      "name": "Edgar",
+      "winRate": 43.2,
+      "useRate": 1.92,
+      "metaScore": 5.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000043.webp",
+      "href": "https://brawlytix.com/brawlers/edgar"
+    },
+    {
+      "rank": 35,
+      "brawlerId": "16000036",
+      "name": "Nani",
+      "winRate": 51.1,
+      "useRate": 0.73,
+      "metaScore": 5.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000036.webp",
+      "href": "https://brawlytix.com/brawlers/nani"
+    },
+    {
+      "rank": 36,
+      "brawlerId": "16000025",
+      "name": "Carl",
+      "winRate": 49.3,
+      "useRate": 0.85,
+      "metaScore": 5.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000025.webp",
+      "href": "https://brawlytix.com/brawlers/carl"
+    },
+    {
+      "rank": 37,
+      "brawlerId": "16000081",
+      "name": "Lily",
+      "winRate": 47.4,
+      "useRate": 0.94,
+      "metaScore": 5.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000081.webp",
+      "href": "https://brawlytix.com/brawlers/lily"
+    },
+    {
+      "rank": 38,
+      "brawlerId": "16000049",
+      "name": "Buzz",
+      "winRate": 47.8,
+      "useRate": 0.87,
+      "metaScore": 5.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000049.webp",
+      "href": "https://brawlytix.com/brawlers/buzz"
+    },
+    {
+      "rank": 39,
+      "brawlerId": "16000007",
+      "name": "Jessie",
+      "winRate": 50,
+      "useRate": 0.73,
+      "metaScore": 5.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000007.webp",
+      "href": "https://brawlytix.com/brawlers/jessie"
+    },
+    {
+      "rank": 40,
+      "brawlerId": "16000013",
+      "name": "Poco",
+      "winRate": 48.6,
+      "useRate": 0.8,
+      "metaScore": 5.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000013.webp",
+      "href": "https://brawlytix.com/brawlers/poco"
+    },
+    {
+      "rank": 41,
+      "brawlerId": "16000048",
+      "name": "Grom",
+      "winRate": 50.8,
+      "useRate": 0.65,
+      "metaScore": 5.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000048.webp",
+      "href": "https://brawlytix.com/brawlers/grom"
+    },
+    {
+      "rank": 42,
+      "brawlerId": "16000017",
+      "name": "Tara",
+      "winRate": 49.9,
+      "useRate": 0.7,
+      "metaScore": 5.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000017.webp",
+      "href": "https://brawlytix.com/brawlers/tara"
+    },
+    {
+      "rank": 43,
+      "brawlerId": "16000061",
+      "name": "Gus",
+      "winRate": 49.1,
+      "useRate": 0.74,
+      "metaScore": 5.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000061.webp",
+      "href": "https://brawlytix.com/brawlers/gus"
+    },
+    {
+      "rank": 44,
+      "brawlerId": "16000010",
+      "name": "El Primo",
+      "winRate": 45.7,
+      "useRate": 0.91,
+      "metaScore": 5.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000010.webp",
+      "href": "https://brawlytix.com/brawlers/el-primo"
+    },
+    {
+      "rank": 45,
+      "brawlerId": "16000086",
+      "name": "Shade",
+      "winRate": 53.3,
+      "useRate": 0.55,
+      "metaScore": 5.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000086.webp",
+      "href": "https://brawlytix.com/brawlers/shade"
+    },
+    {
+      "rank": 46,
+      "brawlerId": "16000019",
+      "name": "Penny",
+      "winRate": 49.4,
+      "useRate": 0.69,
+      "metaScore": 5.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000019.webp",
+      "href": "https://brawlytix.com/brawlers/penny"
+    },
+    {
+      "rank": 47,
+      "brawlerId": "16000073",
+      "name": "Chuck",
+      "winRate": 55.5,
+      "useRate": 0.47,
+      "metaScore": 5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000073.webp",
+      "href": "https://brawlytix.com/brawlers/chuck"
+    },
+    {
+      "rank": 48,
+      "brawlerId": "16000078",
+      "name": "Melodie",
+      "winRate": 50.4,
+      "useRate": 0.61,
+      "metaScore": 5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000078.webp",
+      "href": "https://brawlytix.com/brawlers/melodie"
+    },
+    {
+      "rank": 49,
+      "brawlerId": "16000098",
+      "name": "Ziggy",
+      "winRate": 54.9,
+      "useRate": 0.47,
+      "metaScore": 4.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000098.webp",
+      "href": "https://brawlytix.com/brawlers/ziggy"
+    },
+    {
+      "rank": 50,
+      "brawlerId": "16000064",
+      "name": "Gray",
+      "winRate": 49.6,
+      "useRate": 0.61,
+      "metaScore": 4.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000064.webp",
+      "href": "https://brawlytix.com/brawlers/gray"
+    },
+    {
+      "rank": 51,
+      "brawlerId": "16000046",
+      "name": "Belle",
+      "winRate": 49.6,
+      "useRate": 0.61,
+      "metaScore": 4.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000046.webp",
+      "href": "https://brawlytix.com/brawlers/belle"
+    },
+    {
+      "rank": 52,
+      "brawlerId": "16000076",
+      "name": "Kit",
+      "winRate": 48.8,
+      "useRate": 0.63,
+      "metaScore": 4.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000076.webp",
+      "href": "https://brawlytix.com/brawlers/kit"
+    },
+    {
+      "rank": 53,
+      "brawlerId": "16000077",
+      "name": "Larry & Lawrie",
+      "winRate": 48.2,
+      "useRate": 0.67,
+      "metaScore": 4.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000077.webp",
+      "href": "https://brawlytix.com/brawlers/larry-lawrie"
+    },
+    {
+      "rank": 54,
+      "brawlerId": "16000047",
+      "name": "Squeak",
+      "winRate": 45.7,
+      "useRate": 0.73,
+      "metaScore": 4.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000047.webp",
+      "href": "https://brawlytix.com/brawlers/squeak"
+    },
+    {
+      "rank": 55,
+      "brawlerId": "16000079",
+      "name": "Angelo",
+      "winRate": 51,
+      "useRate": 0.53,
+      "metaScore": 4.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000079.webp",
+      "href": "https://brawlytix.com/brawlers/angelo"
+    },
+    {
+      "rank": 56,
+      "brawlerId": "16000000",
+      "name": "Shelly",
+      "winRate": 43,
+      "useRate": 0.86,
+      "metaScore": 4.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000000.webp",
+      "href": "https://brawlytix.com/brawlers/shelly"
+    },
+    {
+      "rank": 57,
+      "brawlerId": "16000094",
+      "name": "Kaze",
+      "winRate": 50.4,
+      "useRate": 0.48,
+      "metaScore": 4.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000094.webp",
+      "href": "https://brawlytix.com/brawlers/kaze"
+    },
+    {
+      "rank": 58,
+      "brawlerId": "16000089",
+      "name": "Meeple",
+      "winRate": 50.4,
+      "useRate": 0.49,
+      "metaScore": 4.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000089.webp",
+      "href": "https://brawlytix.com/brawlers/meeple"
+    },
+    {
+      "rank": 59,
+      "brawlerId": "16000068",
+      "name": "Maisie",
+      "winRate": 51.1,
+      "useRate": 0.45,
+      "metaScore": 4.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000068.webp",
+      "href": "https://brawlytix.com/brawlers/maisie"
+    },
+    {
+      "rank": 60,
+      "brawlerId": "16000018",
+      "name": "Darryl",
+      "winRate": 46.4,
+      "useRate": 0.55,
+      "metaScore": 4.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000018.webp",
+      "href": "https://brawlytix.com/brawlers/darryl"
+    },
+    {
+      "rank": 61,
+      "brawlerId": "16000028",
+      "name": "Sandy",
+      "winRate": 52.1,
+      "useRate": 0.41,
+      "metaScore": 4.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000028.webp",
+      "href": "https://brawlytix.com/brawlers/sandy"
+    },
+    {
+      "rank": 62,
+      "brawlerId": "16000034",
+      "name": "Jacky",
+      "winRate": 51.1,
+      "useRate": 0.42,
+      "metaScore": 4.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000034.webp",
+      "href": "https://brawlytix.com/brawlers/jacky"
+    },
+    {
+      "rank": 63,
+      "brawlerId": "16000021",
+      "name": "Gene",
+      "winRate": 47.9,
+      "useRate": 0.5,
+      "metaScore": 4.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000021.webp",
+      "href": "https://brawlytix.com/brawlers/gene"
+    },
+    {
+      "rank": 64,
+      "brawlerId": "16000035",
+      "name": "Gale",
+      "winRate": 47.8,
+      "useRate": 0.5,
+      "metaScore": 4.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000035.webp",
+      "href": "https://brawlytix.com/brawlers/gale"
+    },
+    {
+      "rank": 65,
+      "brawlerId": "16000097",
+      "name": "Mina",
+      "winRate": 51.4,
+      "useRate": 0.39,
+      "metaScore": 3.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000097.webp",
+      "href": "https://brawlytix.com/brawlers/mina"
+    },
+    {
+      "rank": 66,
+      "brawlerId": "16000067",
+      "name": "Willow",
+      "winRate": 52.5,
+      "useRate": 0.35,
+      "metaScore": 3.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000067.webp",
+      "href": "https://brawlytix.com/brawlers/willow"
+    },
+    {
+      "rank": 67,
+      "brawlerId": "16000039",
+      "name": "Colette",
+      "winRate": 47.4,
+      "useRate": 0.44,
+      "metaScore": 3.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000039.webp",
+      "href": "https://brawlytix.com/brawlers/colette"
+    },
+    {
+      "rank": 68,
+      "brawlerId": "16000066",
+      "name": "R-T",
+      "winRate": 52.9,
+      "useRate": 0.33,
+      "metaScore": 3.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000066.webp",
+      "href": "https://brawlytix.com/brawlers/r-t"
+    },
+    {
+      "rank": 69,
+      "brawlerId": "16000074",
+      "name": "Charlie",
+      "winRate": 51,
+      "useRate": 0.35,
+      "metaScore": 3.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000074.webp",
+      "href": "https://brawlytix.com/brawlers/charlie"
+    },
+    {
+      "rank": 70,
+      "brawlerId": "16000101",
+      "name": "Glowbert",
+      "winRate": 49.4,
+      "useRate": 0.37,
+      "metaScore": 3.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000101.webp",
+      "href": "https://brawlytix.com/brawlers/glowbert"
+    },
+    {
+      "rank": 71,
+      "brawlerId": "16000031",
+      "name": "Mr. P",
+      "winRate": 53,
+      "useRate": 0.3,
+      "metaScore": 3.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000031.webp",
+      "href": "https://brawlytix.com/brawlers/mr-p"
+    },
+    {
+      "rank": 72,
+      "brawlerId": "16000040",
+      "name": "Amber",
+      "winRate": 49.7,
+      "useRate": 0.35,
+      "metaScore": 3.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000040.webp",
+      "href": "https://brawlytix.com/brawlers/amber"
+    },
+    {
+      "rank": 73,
+      "brawlerId": "16000006",
+      "name": "Barley",
+      "winRate": 45.2,
+      "useRate": 0.42,
+      "metaScore": 3.4,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000006.webp",
+      "href": "https://brawlytix.com/brawlers/barley"
+    },
+    {
+      "rank": 74,
+      "brawlerId": "16000044",
+      "name": "Ruffs",
+      "winRate": 49.3,
+      "useRate": 0.33,
+      "metaScore": 3.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000044.webp",
+      "href": "https://brawlytix.com/brawlers/ruffs"
+    },
+    {
+      "rank": 75,
+      "brawlerId": "16000032",
+      "name": "Max",
+      "winRate": 45.9,
+      "useRate": 0.38,
+      "metaScore": 3.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000032.webp",
+      "href": "https://brawlytix.com/brawlers/max"
+    },
+    {
+      "rank": 76,
+      "brawlerId": "16000087",
+      "name": "Juju",
+      "winRate": 53.2,
+      "useRate": 0.25,
+      "metaScore": 3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000087.webp",
+      "href": "https://brawlytix.com/brawlers/juju"
+    },
+    {
+      "rank": 77,
+      "brawlerId": "16000095",
+      "name": "Alli",
+      "winRate": 49.6,
+      "useRate": 0.29,
+      "metaScore": 3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000095.webp",
+      "href": "https://brawlytix.com/brawlers/alli"
+    },
+    {
+      "rank": 78,
+      "brawlerId": "16000062",
+      "name": "Buster",
+      "winRate": 51.3,
+      "useRate": 0.25,
+      "metaScore": 2.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000062.webp",
+      "href": "https://brawlytix.com/brawlers/buster"
+    },
+    {
+      "rank": 79,
+      "brawlerId": "16000041",
+      "name": "Lou",
+      "winRate": 48.5,
+      "useRate": 0.28,
+      "metaScore": 2.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000041.webp",
+      "href": "https://brawlytix.com/brawlers/lou"
+    },
+    {
+      "rank": 80,
+      "brawlerId": "16000082",
+      "name": "Berry",
+      "winRate": 45.2,
+      "useRate": 0.32,
+      "metaScore": 2.8,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000082.webp",
+      "href": "https://brawlytix.com/brawlers/berry"
+    },
+    {
+      "rank": 81,
+      "brawlerId": "16000056",
+      "name": "Eve",
+      "winRate": 52.2,
+      "useRate": 0.22,
+      "metaScore": 2.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000056.webp",
+      "href": "https://brawlytix.com/brawlers/eve"
+    },
+    {
+      "rank": 82,
+      "brawlerId": "16000084",
+      "name": "Moe",
+      "winRate": 52.3,
+      "useRate": 0.21,
+      "metaScore": 2.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000084.webp",
+      "href": "https://brawlytix.com/brawlers/moe"
+    },
+    {
+      "rank": 83,
+      "brawlerId": "16000069",
+      "name": "Hank",
+      "winRate": 51.4,
+      "useRate": 0.22,
+      "metaScore": 2.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000069.webp",
+      "href": "https://brawlytix.com/brawlers/hank"
+    },
+    {
+      "rank": 84,
+      "brawlerId": "16000057",
+      "name": "Janet",
+      "winRate": 51.1,
+      "useRate": 0.22,
+      "metaScore": 2.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000057.webp",
+      "href": "https://brawlytix.com/brawlers/janet"
+    },
+    {
+      "rank": 85,
+      "brawlerId": "16000024",
+      "name": "Rosa",
+      "winRate": 49.8,
+      "useRate": 0.23,
+      "metaScore": 2.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000024.webp",
+      "href": "https://brawlytix.com/brawlers/rosa"
+    },
+    {
+      "rank": 86,
+      "brawlerId": "16000027",
+      "name": "8-Bit",
+      "winRate": 45.1,
+      "useRate": 0.27,
+      "metaScore": 2.5,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000027.webp",
+      "href": "https://brawlytix.com/brawlers/8-bit"
+    },
+    {
+      "rank": 87,
+      "brawlerId": "16000092",
+      "name": "Finx",
+      "winRate": 50.9,
+      "useRate": 0.2,
+      "metaScore": 2.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000092.webp",
+      "href": "https://brawlytix.com/brawlers/finx"
+    },
+    {
+      "rank": 88,
+      "brawlerId": "16000072",
+      "name": "Pearl",
+      "winRate": 50,
+      "useRate": 0.2,
+      "metaScore": 2.3,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000072.webp",
+      "href": "https://brawlytix.com/brawlers/pearl"
+    },
+    {
+      "rank": 89,
+      "brawlerId": "16000037",
+      "name": "Sprout",
+      "winRate": 48.4,
+      "useRate": 0.21,
+      "metaScore": 2.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000037.webp",
+      "href": "https://brawlytix.com/brawlers/sprout"
+    },
+    {
+      "rank": 90,
+      "brawlerId": "16000080",
+      "name": "Draco",
+      "winRate": 51.6,
+      "useRate": 0.18,
+      "metaScore": 2.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000080.webp",
+      "href": "https://brawlytix.com/brawlers/draco"
+    },
+    {
+      "rank": 91,
+      "brawlerId": "16000096",
+      "name": "Trunk",
+      "winRate": 52.6,
+      "useRate": 0.16,
+      "metaScore": 2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000096.webp",
+      "href": "https://brawlytix.com/brawlers/trunk"
+    },
+    {
+      "rank": 92,
+      "brawlerId": "16000051",
+      "name": "Ash",
+      "winRate": 50.8,
+      "useRate": 0.17,
+      "metaScore": 2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000051.webp",
+      "href": "https://brawlytix.com/brawlers/ash"
+    },
+    {
+      "rank": 93,
+      "brawlerId": "16000052",
+      "name": "Meg",
+      "winRate": 50,
+      "useRate": 0.17,
+      "metaScore": 2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000052.webp",
+      "href": "https://brawlytix.com/brawlers/meg"
+    },
+    {
+      "rank": 94,
+      "brawlerId": "16000058",
+      "name": "Bonnie",
+      "winRate": 47.8,
+      "useRate": 0.19,
+      "metaScore": 2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000058.webp",
+      "href": "https://brawlytix.com/brawlers/bonnie"
+    },
+    {
+      "rank": 95,
+      "brawlerId": "16000060",
+      "name": "Sam",
+      "winRate": 52.3,
+      "useRate": 0.15,
+      "metaScore": 1.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000060.webp",
+      "href": "https://brawlytix.com/brawlers/sam"
+    },
+    {
+      "rank": 96,
+      "brawlerId": "16000090",
+      "name": "Ollie",
+      "winRate": 49.6,
+      "useRate": 0.15,
+      "metaScore": 1.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000090.webp",
+      "href": "https://brawlytix.com/brawlers/ollie"
+    },
+    {
+      "rank": 97,
+      "brawlerId": "16000100",
+      "name": "Gigi",
+      "winRate": 48.7,
+      "useRate": 0.15,
+      "metaScore": 1.7,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000100.webp",
+      "href": "https://brawlytix.com/brawlers/gigi"
+    },
+    {
+      "rank": 98,
+      "brawlerId": "16000016",
+      "name": "Pam",
+      "winRate": 49.4,
+      "useRate": 0.14,
+      "metaScore": 1.6,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000016.webp",
+      "href": "https://brawlytix.com/brawlers/pam"
+    },
+    {
+      "rank": 99,
+      "brawlerId": "16000091",
+      "name": "Lumi",
+      "winRate": 47.2,
+      "useRate": 0.11,
+      "metaScore": 1.2,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000091.webp",
+      "href": "https://brawlytix.com/brawlers/lumi"
+    },
+    {
+      "rank": 100,
+      "brawlerId": "16000093",
+      "name": "Jae-Yong",
+      "winRate": 48.8,
+      "useRate": 0.09,
+      "metaScore": 1.1,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000093.webp",
+      "href": "https://brawlytix.com/brawlers/jae-yong"
+    },
+    {
+      "rank": 101,
+      "brawlerId": "16000053",
+      "name": "Lola",
+      "winRate": 47.4,
+      "useRate": 0.08,
+      "metaScore": 0.9,
+      "imgSrc": "https://cdn.brawlytix.com/brawlers/borderless/16000053.webp",
+      "href": "https://brawlytix.com/brawlers/lola"
+    }
+  ]
+}
